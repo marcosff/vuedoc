@@ -1,0 +1,30 @@
+{
+  "name": "vuedoc",
+  "version": "1.0.0",
+  "description": "Its a documentation generator for vue projects based on jsdoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosff/vuedoc.git"
+  },
+  "keywords": [
+    "documentation",
+    "vue.js",
+    "vue",
+    "jsdoc"
+  ],
+  "author": "Marcos Feijó",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/marcosff/vuedoc/issues"
+  },
+  "homepage": "https://github.com/marcosff/vuedoc#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs.promises": "^0.1.2",
+    "readline": "^1.3.0"
+  }
+}
